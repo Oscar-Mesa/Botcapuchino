@@ -1,0 +1,30 @@
++ *
+- Bienvenido al menú de la Universidad Católica Luis Amigó. Por favor, selecciona una de las siguientes opciones:
+^  1. Información de carreras en Apartado
+^  2. Información de carreras en Bogotá
+^  3. Información de carreras en Manizales
+^  4. Información de carreras en Montería
+^  5. Información de carreras en Medellín
+
+! informacion_apartado
++ 1
+- Aquí encontrarás información sobre las carreras ofrecidas en la sede de Apartado. Puedes visitar el sitio web de la universidad para obtener más detalles.
+
+! informacion_bogota
++ 2
+- Aquí encontrarás información sobre las carreras ofrecidas en la sede de Bogotá. Puedes visitar el sitio web de la universidad para obtener más detalles.
+
+! informacion_manizales
++ 3
+- Aquí encontrarás información sobre las carreras ofrecidas en la sede de Manizales. Puedes visitar el sitio web de la universidad para obtener más detalles.
+
+! informacion_monteria
++ 4
+- Aquí encontrarás información sobre las carreras ofrecidas en la sede de Montería. Puedes visitar el sitio web de la universidad para obtener más detalles.
+
+! informacion_medellin
++ 5
+- Aquí encontrarás información sobre las carreras ofrecidas en la sede de Medellín. Puedes visitar el sitio web de la universidad para obtener más detalles.
+
++ *
+- Lo siento, no entiendo tu selección. Por favor, selecciona una de las opciones del menú principal ingresando el número correspondiente.

@@ -1,0 +1,327 @@
++ hola
+- Bienvenido al menú de la Universidad Católica Luis Amigó.\n
+^ Por favor, selecciona una de las siguientes opciones:\n\n
+^ (1) Información de carreras en Apartadó\n
+^ (2) Información de carreras en Bogotá\n
+^ (3) Información de carreras en Manizales\n
+^ (4) Información de carreras en Montería\n
+^ (5) Información de carreras en Medellín\n
+^ (menu) Volver al menú \n
+
+//saludos 
+
++ menu
+@ hola
+
++ h
+@ hola
+
++ ola
+@hola
+
++ hola
+@ hola
+
++ buenos dias
+@ hola
+
++ que tal
+@ hola
+
++ hola como estas
+@ hola
+
++ me podrias ayudar con 
+@ hola
+
++ buenas tardes
+@ hola
+
++ estas ahi
+@ hola
+
++ saludos
+@ hola
+
++ hola que tal
+@ hola
+
++ buen dia
+@ hola
+
++ hola en que puedo asistirte
+@ hola
+
++ hola necesito tu ayuda
+@ hola
+
++ buenas noches
+@ hola
+
+
+
+//información Apartadó
+
++ 1
+- Aquí encontrarás información sobre las carreras ofrecidas en la sede de Apartadó.\n\n
+^ Puedes visitar el sitio web de la universidad para obtener más detalles.\n
+^ https://www.funlam.edu.co/modules/sedeapartado/ \n
+^ Por favor, selecciona una de las siguientes opciones:\n\n
+^ (pa) Programas presenciales \n
+^ (da) Programas a distancia \n
+^ (menu) Volver al menú \n
+
+
++ pa
+- Por favor, selecciona una de las siguientes opciones:\n\n
+^ (1pa) Ingeniería de sistemas \n
+^ (2pa) Psicología\n
+^ (menu) Volver al menú \n
+
++ 1pa
+- Plan de estudio\n
+^ https://acortar.link/n4ZagN \n
+^ (menu) Volver al menú \n
+
++ 2pa 
+- Plan de estudio\n
+^ https://acortar.link/MGMhos \n
+^ (menu) Volver al menú \n
+
++ da
+- Por favor, selecciona una de las siguientes opciones:\n\n
+^ (1da) Administración de empresas\n
+^ (2da) Trabajo social\n
+^ (3da) Psicología \n
+^ (menu) Volver al menú \n
+
++ 1da
+- Plan de estudio\n
+^ https://acortar.link/3P9wl5 \n
+^ (menu) Volver al menú \n
+
++ 2da
+- Plan de estudio\n
+^ https://acortar.link/GgW2FK \n
+^ (menu) Volver al menú \n
+
++ 3da
+- Plan de estudio\n
+^ https://acortar.link/mFXQM3 \n
+^ (menu) Volver al menú \n
+
+
+//información Bogotá
++ 2
+- Aquí encontrarás información sobre las carreras ofrecidas en la sede de Bogotá.\n\n
+^ Puedes visitar el sitio web de la universidad para obtener más detalles.\n
+^ https://www.funlam.edu.co/modules/sedebogota/ \n
+^ Por favor, selecciona una de las siguientes opciones:\n\n
+^ (pb) Programas presenciales \n
+^ (db) Programas a distancia \n
+^ (menu) Volver al menú \n
+
++ pb
+- Por favor, selecciona una de las siguientes opciones:\n\n
+^ (1pb) Administración de empresas \n
+^ (menu) Volver al menú \n
+
++ 1pb 
+- Plan de estudio\n
+^ https://acortar.link/OmK5Cw \n
+^ (menu) Volver al menú \n
+
+
++ db
+- Por favor, selecciona una de las siguientes opciones:\n\n
+^ (1db) Psicología\n
+^ (2db) Trabajo social\n
+^ (menu) Volver al menú \n
+
++ 1db 
+- Plan de estudio\n
+^ https://acortar.link/kpwLn1 \n
+^ (menu) Volver al menú \n
+
++ 2db 
+- Plan de estudio\n
+^ https://acortar.link/drkkMG \n
+^ (menu) Volver al menú \n
+
+
+//información Manizales
++ 3
+- Aquí encontrarás información sobre las carreras ofrecidas en la sede de Manizales.\n\n
+^ Puedes visitar el sitio web de la universidad para obtener más detalles.\n
+^ https://www.funlam.edu.co/modules/sedemanizales/ \n
+^ Por favor, selecciona una de las siguientes opciones:\n\n
+^ (pma) Programas presenciales \n
+^ (dma) Programas a distancia \n
+^ (menu) Volver al menú \n
+
+
++ pma 
+- Por favor, selecciona una de las siguientes opciones:\n\n
+^ (1pma) Administración de empresas \n
+^ (2pma) Comunicación social \n
+^ (3pma) Diseño grafico \n
+^ (4pma) Derecho\n
+^ (5pma) Psicología\n
+^ (6pma) Negocios internacionales\n
+^ (menu) Volver al menú \n
+
++ 1pma 
+- Plan de estudio\n
+^ https://acortar.link/wKLrcs \n
+^ (menu) Volver al menú \n
+
++ 2pma 
+- Plan de estudio\n
+^ https://acortar.link/CGZfPn \n
+^ (menu) Volver al menú \n
+
++ 3pma 
+- Plan de estudio\n
+^ https://acortar.link/ZmmO1v \n
+^ (menu) Volver al menú \n
+
++ 4pma
+- Plan de estudio\n
+^ https://acortar.link/kJIesE \n
+^ (menu) Volver al menú \n
+
++ 5pma
+- Plan de estudio\n
+^ https://acortar.link/GdeWKI \n
+^ (menu) Volver al menú \n
+
++ 6pma
+- Plan de estudio\n
+^ https://acortar.link/21djBk \n
+^ (menu) Volver al menú \n
+
+
++ dma
+- Por favor, selecciona una de las siguientes opciones:\n\n
+^ (1dma) Administración de empresas \n
+^ (2dma) Psicología \n
+^ (3dma) Trabajo social \n
+^ (menu) Volver al menú \n
+
++ 1dma 
+- Plan de estudio\n
+^ https://acortar.link/ZPZX53 \n
+^ (menu) Volver al menú \n
+
++ 2dma
+- Plan de estudio\n
+^ https://acortar.link/8BL2sH \n
+^ (menu) Volver al menú \n
+
++ 3dma
+- Plan de estudio\n
+^ https://acortar.link/ncblaD \n
+^ (menu) Volver al menú \n
+
+
+
+
+//información Montería
++ 4
+- Aquí encontrarás información sobre las carreras ofrecidas en la sede de Montería.\n\n
+^ Puedes visitar el sitio web de la universidad para obtener más detalles.\n
+^ https://www.funlam.edu.co/modules/sedemonteria/ \n
+^ Por favor, selecciona una de las siguientes opciones:\n\n
+^ (pmo) Programas presenciales \n
+^ (dmo) Programas a distancia \n
+^ (menu) Volver al menú \n
+
++ pmo
+- Por favor, selecciona una de las siguientes opciones:\n\n
+^ (1pmo) Derecho
+^ (menu) Volver al menú \n
+
++ 1pmo
+- Plan de estudio\n
+^ https://acortar.link/qBieGz \n
+^ (menu) Volver al menú \n
+
++ dmo
+- Por favor, selecciona una de las siguientes opciones:\n\n
+^ (1dmo) Administración de empresas\n
+^ (2dmo) Psicología\n
+^ (3dmo) Trabajo social\n
+^ (menu) Volver al menú \n
+
++ 1dmo
+- Plan de estudio\n
+^ https://acortar.link/SNz27G \n
+^ (menu) Volver al menú \n
+
++ 2dmo
+- Plan de estudio\n
+^ https://acortar.link/HWETuk \n
+^ (menu) Volver al menú \n
+
++ 3dmo
+- Plan de estudio\n
+^ https://acortar.link/v2GRCP \n
+^ (menu) Volver al menú \n
+
+//información Medellín
++ 5
+- Aquí encontrarás información sobre las carreras ofrecidas en la sede de Medellín.\n\n
+^ Puedes visitar el sitio web de la universidad para obtener más detalles.\n
+^ https://www.funlam.edu.co \n
+^ Por favor, selecciona una de las siguientes opciones:\n\n
+^ (med) Programas presenciales y a distancia\n
+^ (menu) Volver al menú \n
+
++ med
+- Por favor, selecciona una de las siguientes opciones:\n\n
+^ (1med) Áreas administrativas, economía y contable 
+^ (2med) Área de Comunicación\n
+^ (3med) Área de Derecho\n
+^ (4med) Área de Educación\n
+^ (5med) Área de Ingeniería\n
+^ (6med) Área de Psicología\n
+^ (menu) Volver al menú \n
+
++ 1med 
+- Plan de estudio\n
+^ Presencial: https://acortar.link/s9ZYf7 
+^ Distancia: https://acortar.link/NcZE1G
+^ (menu) Volver al menú \n
+
++ 2med
+- Plan de estudio\n
+^ Presencial: https://acortar.link/CIYQsj
+^ Distancia: 
+^ (menu) Volver al menú \n
+
++ 3med
+- Plan de estudio\n
+^ Presencial: https://acortar.link/BEmsXJ
+^ Distancia: 
+^ (menu) Volver al menú \n
+
++ 4med
+- Plan de estudio\n
+^ Presencial:  https://acortar.link/MkdVnj
+^ Distancia: 
+^ (menu) Volver al menú \n
+
++ 5med
+- Plan de estudio\n
+^ Presencial: https://acortar.link/uZJiwe
+^ Distancia: 
+^ (menu) Volver al menú \n
+
++ 6med
+- Plan de estudio\n
+^ Presencial: https://acortar.link/gYyyaQ
+^ Distancia: https://acortar.link/fiTkyY
+^ (menu) Volver al menú \n
+
+
+
